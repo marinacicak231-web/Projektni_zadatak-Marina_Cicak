@@ -1,0 +1,32 @@
+
+	@font-face{
+	font-family:"Marina Cicak"
+	src:url(digitalni multimediji/MarinaCicak.ttf);
+}
+p{
+		color:black;
+		font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+		font-size: 18px;
+		line-height: 20px;
+		width: 650px;
+		background-color: rgb(220,175,198,0.8);
+		padding: 20px; 
+}	
+ h2{
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	color:pink;
+ }
+
+body{
+	background-image: url("slike/3008.JPG");
+}
+a:link{
+	color: black;
+	background-color: white;
+	padding: 5px;
+	line-height: 40px;
+	border:1px solid #000000
+}
+a:hover{
+	background-color: darkgray;
+}
