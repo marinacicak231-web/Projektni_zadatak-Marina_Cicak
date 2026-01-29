@@ -1,8 +1,12 @@
-
-	@font-face{
-	font-family:"Marina Cicak"
-	src:url(digitalni multimediji/MarinaCicak.ttf);
+@font-face {
+    font-family: "MarinaCicak";
+    src: url("digitalni_multimediji/MarinaCicak.ttf");
 }
+
+h1 {
+    font-family: "MarinaCicak", sans-serif;
+}
+
 p{
 		color:black;
 		font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
@@ -29,4 +33,5 @@ a:link{
 }
 a:hover{
 	background-color: darkgray;
+
 }
