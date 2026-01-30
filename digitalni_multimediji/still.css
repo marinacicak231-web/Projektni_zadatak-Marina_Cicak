@@ -22,7 +22,7 @@ p{
  }
 
 body{
-	background-image: url("slike/3008.JPG");
+	background-image: url("3008.JPG");
 }
 a:link{
 	color: black;
@@ -35,3 +35,4 @@ a:hover{
 	background-color: darkgray;
 
 }
+
