@@ -1,6 +1,6 @@
 @font-face {
     font-family: "MarinaCicak";
-    src: url("digitalni multimediji/MarinaCicak.ttf");
+    src: url("digitalni_multimediji/MarinaCicak.ttf");
 }
 
 h1 {
@@ -33,4 +33,5 @@ a:link{
 }
 a:hover{
 	background-color: darkgray;
+
 }
